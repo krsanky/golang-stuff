@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/krsanky/golang-stuff/gstuff"
+)
 
 func main() {
-	fmt.Println("vim-go")
+	fmt.Printf("this: %s\n", gstuff.FnOne("hey"))
 }
