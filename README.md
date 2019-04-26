@@ -1,3 +1,2 @@
 # golang-stuff
-dummy text
 
